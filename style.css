@@ -26,9 +26,9 @@ img {
 .header {
   position: absolute;
   top: 50px;
-  left: 200px;
-  right: 200px;
-  bottom: 440px;
+  left: 300px;
+  right: 300px;
+  bottom: 500px;
   background-color: rgba(0,0,0, 0.4);
   color: white;
   
@@ -53,3 +53,4 @@ h3 {
   text-align: center;
   bottom: 20px;
 }
+
